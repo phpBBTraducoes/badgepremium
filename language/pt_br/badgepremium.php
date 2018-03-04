@@ -27,10 +27,10 @@ $lang = array_merge($lang, array(
 	'BADGE_TYPE_TOPICS'				=> 'Tópicos',
 
 	'BADGEAUTO_TYPE_BOOKMARKED'		=> 'Prêmio de Emblema Favoritou',
-	'BADGEAUTO_TYPE_BBPOINTS'		=> 'Prêmio de Emblema BB points',
+	'BADGEAUTO_TYPE_BBPOINTS'		=> 'Prêmio de Emblema BBpoints',
 	'BADGEAUTO_TYPE_CROSS_BADGE'	=> 'Prêmio de Emblema Cruzar Emblemas',
 	'BADGEAUTO_TYPE_POLLS'			=> 'Prêmio de Emblema Enquetes',
-	'BADGEAUTO_TYPE_REPORTS'		=> 'Prêmio de Emblema Denúnciass',
+	'BADGEAUTO_TYPE_REPORTS'		=> 'Prêmio de Emblema Denúncias',
 	'BADGEAUTO_TYPE_SUBSCRIBED'		=> 'Prêmio de Emblema Subscreveu',
 	'BADGEAUTO_TYPE_TOPICS'			=> 'Prêmio de Emblema Tópicos',
 
