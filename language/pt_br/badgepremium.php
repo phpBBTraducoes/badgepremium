@@ -19,7 +19,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'BADGE_TYPE_BOOKMARKED'			=> 'Favoritou',
-	'BADGE_TYPE_BBPOINTS'			=> 'BBpontos',
+	'BADGE_TYPE_BBPOINTS'			=> 'BBpoints',
 	'BADGE_TYPE_CROSS_BADGE'		=> 'Cruzar Emblemas',
 	'BADGE_TYPE_POLLS'				=> 'Enquetes',
 	'BADGE_TYPE_REPORTS'			=> 'Denúncias',
